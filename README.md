@@ -1,4 +1,5 @@
 # Awesome ChatGPT/GPT Chrome Extensions
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This is a list or curated, hand-picked chrome extensions powered by ChatGPT and/or GPT3 by OpenAI. Enjoy!
 
